@@ -1,0 +1,5 @@
+[ 2023-05-02 21:19:18,264 ] 157 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2023-05-02 21:19:20,258 ] 31 root - INFO - Enter the data ingestion method or component
+[ 2023-05-02 21:19:20,368 ] 34 root - INFO - Read the csv data as dataframe
+[ 2023-05-02 21:19:20,397 ] 40 root - INFO - Train Test Split
+[ 2023-05-02 21:19:20,455 ] 46 root - INFO - Ingestion of the data is completed
