@@ -1,7 +1,48 @@
+.gitignore
 README.md
+requirements.txt
 setup.py
 mlproject.egg-info/PKG-INFO
 mlproject.egg-info/SOURCES.txt
 mlproject.egg-info/dependency_links.txt
 mlproject.egg-info/requires.txt
 mlproject.egg-info/top_level.txt
+notebook/1 . EDA STUDENT PERFORMANCE .ipynb
+notebook/2. MODEL TRAINING.ipynb
+notebook/.ipynb_checkpoints/1 . EDA STUDENT PERFORMANCE -checkpoint.ipynb
+notebook/.ipynb_checkpoints/2. MODEL TRAINING-checkpoint.ipynb
+notebook/catboost_info/catboost_training.json
+notebook/catboost_info/learn_error.tsv
+notebook/catboost_info/time_left.tsv
+notebook/catboost_info/learn/events.out.tfevents
+notebook/data/stud.csv
+src/__init__.py
+src/exception.py
+src/logger.py
+src/utils.py
+src/__pycache__/__init__.cpython-39.pyc
+src/__pycache__/exception.cpython-39.pyc
+src/__pycache__/logger.cpython-39.pyc
+src/components/__init__.py
+src/components/data_ingestion.py
+src/components/data_transformation.py
+src/components/model_trainer
+src/components/artifacts/data.csv
+src/components/artifacts/test.csv
+src/components/artifacts/train.csv
+src/components/logs/05_02_2023_18_32_42.log/05_02_2023_18_32_42.log
+src/components/logs/05_02_2023_18_34_57.log/05_02_2023_18_34_57.log
+src/components/logs/05_02_2023_18_40_11.log/05_02_2023_18_40_11.log
+src/components/logs/05_02_2023_18_46_50.log/05_02_2023_18_46_50.log
+src/components/logs/05_02_2023_18_47_54.log/05_02_2023_18_47_54.log
+src/components/logs/05_02_2023_18_57_18.log/05_02_2023_18_57_18.log
+src/components/logs/05_02_2023_19_01_13.log/05_02_2023_19_01_13.log
+src/components/logs/05_02_2023_21_01_09.log/05_02_2023_21_01_09.log
+src/components/logs/05_02_2023_21_08_03.log/05_02_2023_21_08_03.log
+src/components/logs/05_02_2023_21_12_25.log/05_02_2023_21_12_25.log
+src/components/logs/05_02_2023_21_13_13.log/05_02_2023_21_13_13.log
+src/components/logs/05_02_2023_21_19_17.log/05_02_2023_21_19_17.log
+src/pipeline/__init__.py
+src/pipeline/predict_pipeline.py
+src/pipeline/train_pipeline
+src/pipeline/train_pipeline.py
